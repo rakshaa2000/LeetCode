@@ -1,4 +1,4 @@
-## CONTRIBUTING TO THIS REPOSITORY
+## CONTRIBUTING TO THIS REPOSITORY :clipboard: 
 
 All Contributions are welcome. Please follow the guidelines for contributing.
 
