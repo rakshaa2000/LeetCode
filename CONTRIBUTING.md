@@ -6,11 +6,11 @@ Please fork this repo and make the changes.
 
 Please do not open a pull request that does not reference an issue number.
 
-- To add an idea or a solution
+- To add a solution
 
   Please open an issue for the problem. Reference that in the pull request.
   
-  Start the issue with  ```[SOLUTION]``` for solutions and ```[IDEA]``` for ideas 
+  Start the issue with  ```[SOLUTION]``` for solutions
   
   Open a folder for each problem. Feel free to add solutions for the same in C, C++, Java, JavaScript or Python.
   
