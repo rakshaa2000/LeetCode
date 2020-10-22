@@ -27,7 +27,7 @@ Output: [0,1]
 Constraints:
 
 - 2 <= nums.length <= 105
-- -109 <= nums[i] <= 109
-- -109 <= target <= 109
+- -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
+- -10<sup>9</sup> <= target <= 10<sup>9</sup>
 
 Only one valid answer exists.
