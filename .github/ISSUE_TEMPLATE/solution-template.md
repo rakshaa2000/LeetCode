@@ -13,6 +13,6 @@ A clear description of the problem, you can use the same description from LeetCo
 **Proposed solution**
 Please encode your solution with ``` to change it to code format.
 
-[ ] I have read the Contribution guide.
-[ ] I read through the other issues and the solution is not proposed yet.
-[ ] My content is original.
+- [ ] I have read the Contribution guide.
+- [ ] I read through the other issues and the solution is not proposed yet.
+- [ ] My content is original.
