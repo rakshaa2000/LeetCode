@@ -32,4 +32,4 @@ Output: false
 
 Constraints:
 
-- -231 <= x <= 231 - 1
+- -2<sup>31</sup> <= x <= 2<sup>31</sup> - 1
